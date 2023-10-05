@@ -220,7 +220,7 @@ histogram ratio, bin(20) frequency fcolor(gs13) lcolor(black) ylabel(0(2)20) xti
 graph save Graph "C:\Users\17775\Desktop\合成控制法-原理\post_pre-Proposition 99 MSPE.gph" , replace //（保存post_pre-Proposition 99 MSPE.gph所在位置）
 
 //////******参考******//////
-*Scott Cunningham_Casual Inference: mixtape中合成控制部分的编码
+*Scott Cunningham_Casual Inference: The Mixtape中合成控制部分的编码
 *知乎回答：合成控制法:Synthetic control.https://zhuanlan.zhihu.com/p/594463125.
 *知乎回答：合成控制法（SCM）安慰剂检验怎么玩？.https://zhuanlan.zhihu.com/p/133744885.
 *微信推文：从加州控烟案例学会合成控制法的Stata操作.https://mp.weixin.qq.com/s?__biz=MzU4ODU3NjM2MA==&mid=2247483729&idx=1&sn=eff312d71154eba415668da1823c4f27&chksm=fddbe256caac6b40be67cf610d86a56466004dca889304bf414f905f369816ae9cc6114c0eb6&scene=21#wechat_redirect.
